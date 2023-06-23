@@ -51,6 +51,7 @@ The best model for determing the target classes was a hyperparamater tuned XGBoo
 
 
 ## Feature Importances 
+![Feature Importance](https://github.com/asoylatte03/osf_gaminganxiety/blob/main/images/feature_importances.png)
 The best XGBoost model determined that the following features were strong indicators of predicting the target classes (i.e., anxiety severity)
 - Participants responses on the `GADE`, an optional question assesing the degree to which anxious behavior patterns affects different aspects of a participant's life 
 - Participant's motivation for playing games being "winning" 
